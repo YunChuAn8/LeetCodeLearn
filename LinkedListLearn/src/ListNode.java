@@ -1,7 +1,7 @@
 
 public class ListNode {
     int val;
-    ListNode next;
+    ListNode next,pre;
     //构造函数
     ListNode(){};
     ListNode(int val)
